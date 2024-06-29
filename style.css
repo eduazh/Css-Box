@@ -1,0 +1,32 @@
+#cadetblue{
+    color: cadetblue;
+}
+#gold{
+    color: gold;
+}
+#indianred{
+    color: indianred;
+}
+.primera{
+    width: 200px;
+    height: 200px;
+    background-color:cadetblue;
+    border: 10px solid;
+    padding: 20px;
+}
+.segunda{
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    border: 20px solid;
+    border-left: 10px solid;
+    border-right: 10px solid;
+    margin-left: 260px;
+}
+.tercera{
+    width: 200px;
+    height: 200px;
+    background-color: indianred;
+    border: 10px solid;
+    margin-left: 40px;
+}
